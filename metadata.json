@@ -1,0 +1,5 @@
+{
+  "name": "motto Anki",
+  "description": "A smart flashcard application powered by Gemini AI. Create decks, generate cards automatically from topics, and study using spaced repetition.",
+  "requestFramePermissions": []
+}
